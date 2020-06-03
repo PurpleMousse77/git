@@ -1,12 +1,11 @@
+<!DOCTYPE HTML>
 <HTML>
-  <HEAD>
+  <HEAD> 
     <TITLE>
     MY FIRST HTML
     </TITLE>
-   </HEAD>
-    
+  </HEAD>   
     <BODY>
     HELLO! WORLD
     </BODY>
-
 </HTML>
